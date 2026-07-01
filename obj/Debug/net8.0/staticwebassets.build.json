@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8tPIphTfFx64l9WLBMsc3DyThSZUsDGn0uAxddVN/ns=",
+  "Source": "HelloDocker",
+  "BasePath": "_content/HelloDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
