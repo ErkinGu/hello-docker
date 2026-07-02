@@ -31,3 +31,9 @@
 /home/erkin/projects/docker-test/HelloDocker/obj/Debug/net8.0/HelloDocker.pdb
 /home/erkin/projects/docker-test/HelloDocker/obj/Debug/net8.0/HelloDocker.genruntimeconfig.cache
 /home/erkin/projects/docker-test/HelloDocker/obj/Debug/net8.0/ref/HelloDocker.dll
+/home/erkin/projects/docker-test/HelloDocker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/erkin/projects/docker-test/HelloDocker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/erkin/projects/docker-test/HelloDocker/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/erkin/projects/docker-test/HelloDocker/bin/Debug/net8.0/Npgsql.dll
+/home/erkin/projects/docker-test/HelloDocker/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/erkin/projects/docker-test/HelloDocker/obj/Debug/net8.0/HelloDocker.sourcelink.json
